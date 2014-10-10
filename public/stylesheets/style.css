@@ -1,0 +1,11 @@
+.inbox-nav>li.active>a, .inbox-nav>li.active>a:hover, .inbox-nav>li.active>a:focus {
+color: #fff;
+background-color: #5A6D7E;
+}
+
+.inbox-nav>li>a {
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 0px;	
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+}
